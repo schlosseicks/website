@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Feier &#8211; Schloss Eicks</title>
+	<atom:link href="/tag/feier/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Wasserschloss in der Eifel</description>
+	<lastBuildDate>Tue, 07 Jun 2022 10:00:25 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/12/cropped-schloss-eicks-icon-logo-32x32.png</url>
+	<title>Feier &#8211; Schloss Eicks</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Burgfest 2022</title>
+		<link>/burgfest-2022/</link>
+					<comments>/burgfest-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[PVGB]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2022 08:58:21 +0000</pubDate>
+				<category><![CDATA[Burgfest]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Dorf Eicks]]></category>
+		<category><![CDATA[Feier]]></category>
+		<category><![CDATA[Musikverein]]></category>
+		<category><![CDATA[Schloss Eicks]]></category>
+		<category><![CDATA[Schlossfest]]></category>
+		<category><![CDATA[Veranstaltung]]></category>
+		<guid isPermaLink="false">/?p=8015</guid>
+
+					<description><![CDATA[Pfingstspektakel im Burghof. Nach zweijähriger Pandemie-Pause feierte der „Musikverein St. Martin Eicks“ wieder das traditionelle Burgfest in Eicks. Am Pfingstsonntag, 5. Juni, öffnete der Burghof seine Pforten für die musikbegeisterten Besucher. Inmitten der historischen Gemäuer wurde den Besuchern des Burgfestes ein außergewöhnliches und gemütliches Ambiente geboten.]]></description>
+										<content:encoded><![CDATA[<p>Der Musikverein St. Martin Eicks feierte am Pfingstsonntag, 5. Juni, nach zwei Jahren Pause wieder sein traditionelles Burgfest. Foto: Veranstalter/pp/Agentur ProfiPress</p>
+<p><style>/*! elementor - v3.6.5 - 27-04-2022 */<br />
+.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style></p>
+
+
+<p><strong>Mechernich-Eicks&nbsp;</strong>– Pfingstspektakel im Burghof. Nach zweijähriger Pandemie-Pause feierte der „Musikverein St. Martin Eicks“ wieder das traditionelle Burgfest in Eicks. Am Pfingstsonntag, 5. Juni, öffnete der Burghof seine Pforten für die musikbegeisterten Besucher. Inmitten der historischen Gemäuer wurde den Besuchern des Burgfestes ein außergewöhnliches und gemütliches Ambiente geboten.</p>
+
+
+
+<p>Neben Leckereien vom Grill, kühlen Getränken sowie Kaffee und Kuchen präsentierte der Musikverein ein bunten Unterhaltungsprogramm. Auf der großen „e-Regio“-Bühne waren Künstler aus der Umgebung wie die „Bergkapelle Mechernich“, „von Stülp“, Uwe Reetz und „Polka Plus“ zu sehen sein.</p>
+
+
+
+<p>Auch die kleinen Besucher waren bestens versorgt! So gabe es eine Hüpfburg, ein Trampolin, Bogenschießen, Fußball, Kinderschminken und weitere Aktivitäten, die Spiel und Spaß garantierten. Im Anschluss an das Nachmittagsprogramm folgte Musik und Tanz mit der Big Band der „Prinzengarde Mechernich“.</p>
+
+
+
+<p>Die Musiker des Musikvereins „St. Martin Eicks“ unter der Führung von Rudolf Voißel freuten sich, endlich wieder das Burgfest ausrichten zu dürfen und setzten alles daran, einen schönen Tag in entspannter Atmosphäre zu ermöglichen. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/burgfest-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
