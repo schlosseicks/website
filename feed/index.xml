@@ -5,14 +5,14 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	 xmlns:media="http://search.yahoo.com/mrss/" >
 
 <channel>
 	<title>Schloss Eicks</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Wasserschloss in der Eifel</description>
-	<lastBuildDate>Tue, 07 Jun 2022 08:20:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jun 2022 14:06:55 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,211 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Country Homes 2022</title>
+		<link>/country-homes-2022/</link>
+					<comments>/country-homes-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[PVGB]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2022 11:11:51 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Country Homes]]></category>
+		<category><![CDATA[Aussteller]]></category>
+		<category><![CDATA[Blumen]]></category>
+		<category><![CDATA[Eifel]]></category>
+		<category><![CDATA[Essen]]></category>
+		<category><![CDATA[Euskirchen]]></category>
+		<category><![CDATA[Festival]]></category>
+		<category><![CDATA[Food Market]]></category>
+		<category><![CDATA[Garten]]></category>
+		<category><![CDATA[Gartenausstellung]]></category>
+		<category><![CDATA[Gartenfestival]]></category>
+		<category><![CDATA[Gartenmesse]]></category>
+		<category><![CDATA[Gartenschau]]></category>
+		<category><![CDATA[Köstlichkeiten]]></category>
+		<category><![CDATA[Kulinarische Spezialitäten]]></category>
+		<category><![CDATA[Mechernich]]></category>
+		<category><![CDATA[Outdoor Messe]]></category>
+		<category><![CDATA[Pflanzen]]></category>
+		<category><![CDATA[Schloss Eicks]]></category>
+		<category><![CDATA[Sommer Festival]]></category>
+		<category><![CDATA[Veranstaltung]]></category>
+		<guid isPermaLink="false">/?p=8143</guid>
+
+					<description><![CDATA[Klassisch elegantes Garten-festival Das große Gartenfestival zum Schauen, Kaufen und Genießen. Über 160 Aussteller aus ganz Europa präsentieren sich rund um und innerhalb des barocken Schlosses. In exklusiven Atmosphäre wird Ihnen eine Vielfalt von Blumen, Schönem und Seltenem, Trends und Traditionellem [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8143" class="elementor elementor-8143">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-30e480b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30e480b" data-element_type="section" data-settings="{&quot;grandrestaurant_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-844aa9c" data-id="844aa9c" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3fd72bd elementor-widget elementor-widget-heading" data-id="3fd72bd" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Klassisch elegantes Garten-festival </h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-619351e" data-id="619351e" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d170839 elementor-widget elementor-widget-text-editor" data-id="d170839" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Das große Gartenfestival zum Schauen, Kaufen und Genießen. Über 160 Aussteller aus ganz Europa präsentieren sich rund um und innerhalb des barocken Schlosses. In exklusiven Atmosphäre wird Ihnen eine Vielfalt von Blumen, Schönem und Seltenem, Trends und Traditionellem für Garten, Haus und Hof, Schmuck, Antiquitäten, anspruchsvollen Wohn- und Gartenaccessoires, Landhausmode, Gartenmöbeln, floralen Arrangements, Kunst und Design geboten. Entdecken Sie eine Fülle von Gartenraritäten mit elegantem Lifestyle und lassen Sie sich mit kulinarischen Köstlichkeiten bei klassischer Musik verwöhnen.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-93a965d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="93a965d" data-element_type="section" data-settings="{&quot;grandrestaurant_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d9d206a" data-id="d9d206a" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0a6f0bc elementor-widget-divider--view-line_text elementor-widget-divider--separator-type-pattern elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="0a6f0bc" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 20 16&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cg transform=&#039;translate(-12.000000, 0)&#039;%3E%3Cpath d=&#039;M28,0L10,18&#039;/%3E%3Cpath d=&#039;M18,0L0,18&#039;/%3E%3Cpath d=&#039;M48,0L30,18&#039;/%3E%3Cpath d=&#039;M38,0L20,18&#039;/%3E%3C/g%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<h3 class="elementor-divider__text elementor-divider__element">
+				Impressionen				</h3>
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a44d38 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a44d38" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44ea670" data-id="44ea670" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f985daf elementor-arrows-position-outside elementor-widget elementor-widget-image-carousel" data-id="f985daf" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;slides_to_show_tablet&quot;:&quot;4&quot;,&quot;autoplay_speed&quot;:4000,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
+								<div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE2NSwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5aG9tZXMuanBnIiwic2xpZGVzaG93IjoiZjk4NWRhZiJ9" href="/wp-content/uploads/2022/06/countryhomes.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/countryhomes-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1MiwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9Db3VudHJ5LUhvbWVzXzEuanBnIiwic2xpZGVzaG93IjoiZjk4NWRhZiJ9" href="/wp-content/uploads/2022/06/Country-Homes_1.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/Country-Homes_1-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1NywidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzMy5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes3.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes3-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1MywidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9Db3VudHJ5LUhvbWVzXzIuanBnIiwic2xpZGVzaG93IjoiZjk4NWRhZiJ9" href="/wp-content/uploads/2022/06/Country-Homes_2.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/Country-Homes_2-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1OCwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzNC5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes4.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes4-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1NCwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9Db3VudHJ5LUhvbWVzXzMuanBnIiwic2xpZGVzaG93IjoiZjk4NWRhZiJ9" href="/wp-content/uploads/2022/06/Country-Homes_3.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/Country-Homes_3-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1NSwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9Db3VudHJ5LUhvbWVzXzQuanBnIiwic2xpZGVzaG93IjoiZjk4NWRhZiJ9" href="/wp-content/uploads/2022/06/Country-Homes_4.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/Country-Homes_4-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1NiwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzMi5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes2.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes2-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE1OSwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzNS5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes5.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes5-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE2MCwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzNi5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes6.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes6-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE2MSwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzNy5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes7.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes7-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE2MiwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzOC5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes8.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes8-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE2MywidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzOS5qcGciLCJzbGlkZXNob3ciOiJmOTg1ZGFmIn0%3D" href="/wp-content/uploads/2022/06/country-homes9.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes9-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div><div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f985daf" data-elementor-lightbox-title="Garten-Festival Country Homes auf Schloss Eicks" data-elementor-lightbox-description="Garten-Festival Country Homes auf Schloss Eicks" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODE2NCwidXJsIjoiaHR0cHM6XC9cL3NjaGxvc3MtZWlja3MuZGVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA2XC9jb3VudHJ5LWhvbWVzMTAuanBnIiwic2xpZGVzaG93IjoiZjk4NWRhZiJ9" href="/wp-content/uploads/2022/06/country-homes10.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="/wp-content/uploads/2022/06/country-homes10-400x400.jpg" alt="Garten-Festival Country Homes auf Schloss Eicks" /><div class="swiper-lazy-preloader"></div></figure></a></div>			</div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left"><use xlink:href="#eicon-chevron-left" /></svg>						<span class="elementor-screen-only">Zurück</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right"><use xlink:href="#eicon-chevron-right" /></svg>						<span class="elementor-screen-only">Weiter</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b0eea23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b0eea23" data-element_type="section" data-settings="{&quot;grandrestaurant_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4f729f7" data-id="4f729f7" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-daf794d elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="daf794d" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 20 16&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cg transform=&#039;translate(-12.000000, 0)&#039;%3E%3Cpath d=&#039;M28,0L10,18&#039;/%3E%3Cpath d=&#039;M18,0L0,18&#039;/%3E%3Cpath d=&#039;M48,0L30,18&#039;/%3E%3Cpath d=&#039;M38,0L20,18&#039;/%3E%3C/g%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-63ec15e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="63ec15e" data-element_type="section" data-settings="{&quot;grandrestaurant_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0367dfe" data-id="0367dfe" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cdce05e elementor-widget-divider--view-line_text elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="cdce05e" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<h2 class="elementor-divider__text elementor-divider__element">
+				Info				</h2>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-16b1ee7 elementor-widget elementor-widget-text-editor" data-id="16b1ee7" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4>Datum</h4><p>16. bis 19. Juni 2022</p><h4>Öffnungszeiten</h4><p>Donnerstag bis Sonntag 10 – 18 Uhr</p><h4>Veranstaltungsort</h4><p>Schloss Eicks, Burgstr. 7, 53894 Mechernich – Eicks<br />Hunde sind im Park erlaubt!<br />Es gibt eine behindertengerechte Toilette.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-909f943" data-id="909f943" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30df994 elementor-widget-divider--view-line_text elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="30df994" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<h2 class="elementor-divider__text elementor-divider__element">
+				Karten & Preise				</h2>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-75ad0e4 elementor-widget elementor-widget-text-editor" data-id="75ad0e4" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4>Eintrittskarten </h4><p>Karten können Sie in unbegrenzter Menge direkt an der Tageskasse erwerben.</p><p>Ein Kartenvorverkauf ist nicht möglich.</p><h4>Eintrittspreise</h4><p>12,- € für Erwachsene</p><p>10,- € für Schüler, Studenten und Behinderte mit Ausweis</p><p>Kinder bis 12 Jahre frei</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-22fd84e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22fd84e" data-element_type="section" data-settings="{&quot;grandrestaurant_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b47d994" data-id="b47d994" data-element_type="column" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f5a2593 elementor-widget elementor-widget-text-editor" data-id="f5a2593" data-element_type="widget" data-settings="{&quot;grandrestaurant_ext_link_reservation&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_scrollme&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_smoove&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_infinite&quot;:&quot;false&quot;,&quot;grandrestaurant_ext_is_fadeout_animation&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Weitere Infos bietet der Veranstalter unter: <a href="https://schloss-romantik.de/country-homes/" rel="nofollow noopener" target="_blank">https://schloss-romantik.de/country-homes/</a></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/country-homes-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Burgfest 2022</title>
+		<link>/burgfest-2022/</link>
+					<comments>/burgfest-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[PVGB]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2022 08:58:21 +0000</pubDate>
+				<category><![CDATA[Burgfest]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Dorf Eicks]]></category>
+		<category><![CDATA[Feier]]></category>
+		<category><![CDATA[Musikverein]]></category>
+		<category><![CDATA[Schloss Eicks]]></category>
+		<category><![CDATA[Schlossfest]]></category>
+		<category><![CDATA[Veranstaltung]]></category>
+		<guid isPermaLink="false">/?p=8015</guid>
+
+					<description><![CDATA[Pfingstspektakel im Burghof. Nach zweijähriger Pandemie-Pause feierte der „Musikverein St. Martin Eicks“ wieder das traditionelle Burgfest in Eicks. Am Pfingstsonntag, 5. Juni, öffnete der Burghof seine Pforten für die musikbegeisterten Besucher. Inmitten der historischen Gemäuer wurde den Besuchern des Burgfestes ein außergewöhnliches und gemütliches Ambiente geboten.]]></description>
+										<content:encoded><![CDATA[<p>Der Musikverein St. Martin Eicks feierte am Pfingstsonntag, 5. Juni, nach zwei Jahren Pause wieder sein traditionelles Burgfest. Foto: Veranstalter/pp/Agentur ProfiPress</p>
+<p><style>/*! elementor - v3.6.5 - 27-04-2022 */<br />
+.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>
+</p>
+<p><strong>Mechernich-Eicks&nbsp;</strong>– Pfingstspektakel im Burghof. Nach zweijähriger Pandemie-Pause feierte der „Musikverein St. Martin Eicks“ wieder das traditionelle Burgfest in Eicks. Am Pfingstsonntag, 5. Juni, öffnete der Burghof seine Pforten für die musikbegeisterten Besucher. Inmitten der historischen Gemäuer wurde den Besuchern des Burgfestes ein außergewöhnliches und gemütliches Ambiente geboten.</p>
+<p>Neben Leckereien vom Grill, kühlen Getränken sowie Kaffee und Kuchen präsentierte der Musikverein ein bunten Unterhaltungsprogramm. Auf der großen „e-Regio“-Bühne waren Künstler aus der Umgebung wie die „Bergkapelle Mechernich“, „von Stülp“, Uwe Reetz und „Polka Plus“ zu sehen sein.</p>
+<p>Auch die kleinen Besucher waren bestens versorgt! So gabe es eine Hüpfburg, ein Trampolin, Bogenschießen, Fußball, Kinderschminken und weitere Aktivitäten, die Spiel und Spaß garantierten. Im Anschluss an das Nachmittagsprogramm folgte Musik und Tanz mit der Big Band der „Prinzengarde Mechernich“.</p>
+<p>Die Musiker des Musikvereins „St. Martin Eicks“ unter der Führung von Rudolf Voißel freuten sich, endlich wieder das Burgfest ausrichten zu dürfen und setzten alles daran, einen schönen Tag in entspannter Atmosphäre zu ermöglichen. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/burgfest-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
